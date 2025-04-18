@@ -8,7 +8,7 @@ Este é um projeto simples em PHP para cadastrar informações de pacientes.
 
 * Define uma classe `Paciente` com atributos como nome, RG, CPF, endereço e profissão.
 * Possui métodos Getters e Setters para acessar e modificar os atributos.
-* (No futuro, você pode adicionar funcionalidades como salvar em banco de dados, exibir listas, etc.)
+* (   .)
 
 ## Como usar
 
