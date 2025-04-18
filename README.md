@@ -18,12 +18,12 @@ Este é um projeto simples em PHP para cadastrar informações de pacientes.
 
 ## Contribuição
 
-(Se você quiser aceitar contribuições, explique aqui como as pessoas podem contribuir.)
+(  )
 
 ## Licença
 
-(Adicione aqui a licença do seu projeto, se houver.)
+(   )
 
 ## Autor
 
-Seu Nome
+Américo_Marcelo
